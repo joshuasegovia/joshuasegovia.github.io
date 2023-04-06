@@ -8,7 +8,7 @@ title: Joshua Segovia - DREAM Project Site
 
 ## About Me
 
-I look forward to combining my backround in healthcare with my current studies in computer science to create products that are both patient-centric and user-friendly. In my free time, I play soccer and built keyboards. I am also a black belt in Taekowondo. 
+I look forward to combining my backround in healthcare with my current studies in computer science to create products that are both patient-centric and user-friendly. In my free time, I play soccer and build keyboards. I am also a black belt in Taekowondo. 
 
 
 ## About My Advisor
