@@ -17,17 +17,17 @@ Dr.David Knowles is the principal investigator of the Knowles Lab at the New Yor
 
 Dr.David Knowles: 
 
-https://davidaknowles.github.io/
+[https://davidaknowles.github.io/](https://davidaknowles.github.io/)
 
 Knowles Lab: 
 
-https://daklab.github.io/
+[https://daklab.github.io/](https://daklab.github.io/)
 
 ## About My Project
 
 I will create, train and evaluate a convolutional neural network that employs two dimensional convolution to predict a junction site usage ratio from an input sequence of nucelotides. 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report (IN PROGRESS)](files/finalreport.pdf)
 
 ## My Blog
 
